@@ -1,4 +1,4 @@
-import { Egreso } from "./ingreso.model";
+import { Egreso } from "./Egreso.model";
 
 export class EgresoServicio{
     ingresos:Egreso[]=[
