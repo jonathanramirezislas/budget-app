@@ -1,27 +1,65 @@
-# PresupuestoApp
+# Budget App
+    
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+![Budget](https://res.cloudinary.com/djuqxjkh3/image/upload/v1611882156/budget%20ap/budgetapp_1_gxltvs.gif)
 
-## Development server
+Heroes is a app to find your favorite hero.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 📢 Requirements
+- Node JS 12.16.1 _(Recommended)_
+- NPM 6.13.4 _(Recommended)_
 
-## Code scaffolding
+## Config .env
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+| KEY | VALUE|
+| ----- | ---- |
+|DEVELOPMENT_APP_APIKEY|dsfdA...|
+|DEVELOPMENT_APP_AUTHDOMAIN |firebaseapp.com |
+|DEVELOPMENT_APP_PROJECTID|j-app-FG.. |
+|DEVELOPMENT_APP_STORAGEBUCKET|AFSD..appspot.com |
+|DEVELOPMENT_APP_MESSAGINGSENDERID|45454 |
+|DEVELOPMENT_APP_APPID|1:45456456465:web:ADFSDG...|
+|DEVELOPMENT_APP_MEASUREMENTID|G-DSFSDF..|
 
-## Build
+## 🛠 Installation
+1. Clone this project.
+```bash
+  gh repo clone jonathanramirezislas/budget-app
+```
+2. Change of directory to the root of the project.
+```bash
+  cd budget-app
+```
+3. Install the dependencies.
+```bash
+  npm install
+```
+4. Run it locally
+```bash
+  ng serve --o
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## 🔧 Built with
+- [angular/core](https://es.reactjs.org) 
+- [angular/forms](https://es.reactjs.org/docs/react-dom.html)
+- [rxjs](https://www.npmjs.com/package/dotenv)
+- [angular/cli](https://webpack.js.org/)_(Development)_
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Deploy
+1. Once the dependencies are installed, you can do the build
+```bash
+  ng build
+```
 
-## Running end-to-end tests
+## Authors
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- **[Jonathan Ramirez](https://github.com/jonathanramirezislas)** _(Full Stack Developer)_
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 📜 License
+The MIT License (MIT)
+
+## Contributing
+
+You're free to contribute to this project by submitting [issues](https://github.com/jonathanramirezislas/budget-app/issues) and/or [pull requests](https://github.com/jonathanramirezislas/budget-app/pulls).
