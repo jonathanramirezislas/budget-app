@@ -9,18 +9,6 @@ Heroes is a app to find your favorite hero.
 - Node JS 12.16.1 _(Recommended)_
 - NPM 6.13.4 _(Recommended)_
 
-## Config .env
-
-| KEY | VALUE|
-| ----- | ---- |
-|DEVELOPMENT_APP_APIKEY|dsfdA...|
-|DEVELOPMENT_APP_AUTHDOMAIN |firebaseapp.com |
-|DEVELOPMENT_APP_PROJECTID|j-app-FG.. |
-|DEVELOPMENT_APP_STORAGEBUCKET|AFSD..appspot.com |
-|DEVELOPMENT_APP_MESSAGINGSENDERID|45454 |
-|DEVELOPMENT_APP_APPID|1:45456456465:web:ADFSDG...|
-|DEVELOPMENT_APP_MEASUREMENTID|G-DSFSDF..|
-
 ## 🛠 Installation
 1. Clone this project.
 ```bash
@@ -40,10 +28,9 @@ Heroes is a app to find your favorite hero.
 ```
 
 ## 🔧 Built with
-- [angular/core](https://es.reactjs.org) 
-- [angular/forms](https://es.reactjs.org/docs/react-dom.html)
-- [rxjs](https://www.npmjs.com/package/dotenv)
-- [angular/cli](https://webpack.js.org/)_(Development)_
+- [angular/core](https://www.npmjs.com/package/@angular/core) 
+- [angular/forms](https://angular.io/start/start-forms)
+- [angular/cli](https://cli.angular.io/)_(Development)_
 
 
 ## 🚀 Deploy
